@@ -7,18 +7,18 @@
 ## Created by Dr. Rachel Gaal
 ## 07/21/2026
 ###############
-
-Overall structure of this repository includes:
-
-1. python (all coding related materials)
-a. jupyter_notebooks - these are the notebooks used to create figures for the manuscript draft, titled accordingly. 
-b. functions - python scripts that contain functions used within jupyter_notebooks (model preprocessing, calculations, and dictionaries)
-c. conda_envs - .yml file that contains all dependencies used for coding
-
-2. data (all numerical materials)
-a. regrids - bash scripts and relevant files that were used for regrid workflow
-b. precalcs - all pickle and numpy files that were loaded into jupyter notebooks
-
-*** all files denoted "historical" refer to historical period of highresmip and all files denoted "future" refer to the years within SSP-5.85 cmip6 (2014-present) ***
-
-Please contact rxg1381@miami.edu if you notice an error or missing materials.
+###############
+## Overall structure of this repository includes:
+## 1. python (all coding related materials)
+## a. jupyter_notebooks - these are the notebooks used to create figures for the manuscript draft, titled accordingly. 
+## b. functions - python scripts that contain functions used within jupyter_notebooks (model preprocessing, calculations, and dictionaries)
+## c. conda_envs - .yml file that contains all dependencies used for coding
+###############
+## 2. data (all numerical materials)
+## a. regrids - bash scripts and relevant files that were used for regrid workflow
+## b. precalcs - all pickle and numpy files that were loaded into jupyter notebooks
+###############
+## *** all files denoted "historical" refer to historical period of highresmip and all files denoted "future" refer to the years within SSP-5.85 cmip6 (2014-present) ***
+###############
+## Please contact rxg1381@miami.edu if you notice an error or missing materials.
+###############
