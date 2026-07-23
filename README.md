@@ -19,4 +19,6 @@ c. conda_envs - .yml file that contains all dependencies used for coding
 a. regrids - bash scripts and relevant files that were used for regrid workflow
 b. precalcs - all pickle and numpy files that were loaded into jupyter notebooks
 
+*** all files denoted "historical" refer to historical period of highresmip and all files denoted "future" refer to the years within SSP-5.85 cmip6 (2014-present) ***
+
 Please contact rxg1381@miami.edu if you notice an error or missing materials.
